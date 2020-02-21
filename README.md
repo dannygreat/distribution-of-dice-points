@@ -7,3 +7,5 @@ npm install
 
 npm test
 ```
+## Tests may not pass due to query limit random.org 
+## source https://api.random.org/pricing
